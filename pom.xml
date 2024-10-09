@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.assinaturadigital</groupId>
-	<artifactId>digitalsigningspring</artifactId>
+	<artifactId>digitalsignopensource</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>digitalsigningspring</name>
+	<name>digitalsignopensource</name>
 	<description>Projeto de Assinatura digital usando web</description>
 	<url/>
 	<licenses>
